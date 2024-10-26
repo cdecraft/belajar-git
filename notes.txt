@@ -1,1 +1,7 @@
-notes.txt
+Ini adalah Notes Saya
+
+1. Belajar HTML 
+2. Belajar CSS
+3. Belajar Javascript
+4. Belajar Modern JS ES6
+5. Belajar Git dan Github
