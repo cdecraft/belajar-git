@@ -5,4 +5,5 @@ Ini adalah Notes Saya
 3. Belajar Javascript
 4. Belajar Javascript ES5
 5. Belajar Git dan Github
-6. Belajar Angular.js
+6. Belajar React.js
+
