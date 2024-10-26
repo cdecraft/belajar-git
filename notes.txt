@@ -3,5 +3,6 @@ Ini adalah Notes Saya
 1. Belajar HTML 
 2. Belajar CSS
 3. Belajar Javascript
-4. Belajar Git dan Github
-5. Belajar React JS
+4. Belajar Javascript ES5
+5. Belajar Git dan Github
+6. Belajar React JS
